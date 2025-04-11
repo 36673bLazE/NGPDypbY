@@ -14,6 +14,5 @@
 	"main": "script/soundmanager2-nodebug-jsmin.js",
 	"files":[
 		"swf/soundmanager2.swf",
-		"swf/soundmanager2_flash9.swf"
 	]
 }
